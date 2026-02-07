@@ -1,140 +1,228 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Full%20Stack%20Java%20Developer&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
-</div>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&weight=700&size=35&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Full+Stack+Engineer;Architect+%26+Solo+Builder;Production-Ready+Solutions" alt="Typing SVG" />
+</h1>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3CBAFF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Solo+Developer+%7C+Building+Team-Level+Projects;React+%2B+Spring+Boot+%2B+PostgreSQL;Turning+Ideas+Into+Fully+Functional+Apps" alt="Typing SVG" />
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Full--Stack%20Development-00D9FF?style=flat-square&labelColor=0A0E27" />
+  <img src="https://img.shields.io/badge/Approach-Solo%20Team--Level%20Projects-00D9FF?style=flat-square&labelColor=0A0E27" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-00D9FF?style=flat-square&labelColor=0A0E27" />
+</p>
 
 <br/>
 
-## 🚀 About Me
+<img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding">
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+### Engineering Philosophy
+
+I architect and build **production-grade applications** that organizations deploy at scale—**independently**.
+
+**Core Competencies:**
+- End-to-end system design & implementation
+- Database architecture to pixel-perfect UI
+- Performance optimization & scalable solutions
+- Clean architecture & maintainable codebases
+
+**What Differentiates My Work:**
+- Ship complex features under tight deadlines
+- Write code that teams inherit confidently
+- Balance technical excellence with business velocity
+- Own entire product lifecycles autonomously
+
+<br clear="right"/>
+
+---
+
+### Technical Stack
+```javascript
+const techStack = {
+    backend: {
+        primary: ['Java', 'Spring Boot', 'REST APIs'],
+        runtime: ['Node.js'],
+        architecture: ['Microservices', 'MVC', 'Layered Architecture']
+    },
+    frontend: {
+        web: ['React', 'JavaScript ES6+', 'Responsive Design'],
+        mobile: ['React Native'],
+        styling: ['CSS3', 'Modern UI/UX Principles']
+    },
+    data: {
+        relational: ['PostgreSQL', 'MySQL'],
+        orm: ['JPA', 'Hibernate']
+    },
+    tools: ['Git', 'Postman', 'VS Code', 'Linux'],
+    practices: ['Clean Code', 'SOLID Principles', 'API Design', 'Code Review']
+};
+```
+
+<details>
+<summary><b>View Technology Proficiency</b></summary>
+<br/>
+
+**Backend Engineering**  
+`Java` `Spring Boot` `Spring Data JPA` `Spring Security` `RESTful APIs` `Node.js`
+
+**Frontend Development**  
+`React` `React Native` `JavaScript` `HTML5` `CSS3` `Responsive Design`
+
+**Database & Storage**  
+`PostgreSQL` `MySQL` `Database Design` `Query Optimization`
+
+**DevOps & Tools**  
+`Git` `GitHub` `Postman` `VS Code` `API Testing` `Debugging`
+
+**Architecture & Design**  
+`Clean Architecture` `SOLID Principles` `Design Patterns` `System Design`
+
+</details>
+
+---
+
+### Production Systems
+
+<table>
+<tr>
+<td width="50%">
+
+#### 🎯 Personal Productivity & Social Platform
+**Solo Full-Stack Development**
+
+Enterprise-grade productivity ecosystem with social features
+
+**Stack:** React Native · Spring Boot · PostgreSQL  
+**Scope:** Authentication · Real-time updates · Complex data models · Mobile-first design
+
+**Technical Highlights:**
+- Architected scalable backend with Spring Boot
+- Designed normalized database schema
+- Built responsive mobile UI from scratch
+- Implemented secure user authentication
+
+
+
+</td>
+<td width="50%">
+
+#### 🤖 AI-Powered English Learning Platform
+**Interactive Language Coach**
+
+Intelligent chatbot with real-time grammar analysis and translation
+
+**Stack:** React Native · Gemini API · Advanced NLP  
+**Scope:** AI integration · Real-time feedback · Multi-language support
+
+**Technical Highlights:**
+- Integrated Gemini API for AI conversations
+- Built context-aware chat interface
+- Implemented grammar correction engine
+- Designed intuitive learning experience
+
+
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+#### ✅ Full-Stack Task Management System
+**Complete CRUD Application**
+
+Production-ready task manager with authentication & cloud deployment
+
+**Stack:** React · Spring Boot · MySQL · JWT  
+**Scope:** User management · CRUD operations · Responsive design
+
+**Technical Highlights:**
+- Designed RESTful API architecture
+- Implemented JWT authentication
+- Created responsive React frontend
+- Managed database relationships
+
+
+
+</td>
+<td width="50%">
+
+#### 🌦️ Real-Time Weather Intelligence
+**API-Driven Application**
+
+Clean, performant weather app with live data integration
+
+**Stack:** React · External APIs · Modern UI/UX
+
+**Technical Highlights:**
+- Optimized API call patterns
+- Implemented error handling
+- Designed minimal, elegant interface
+- Built responsive components
+
+
+
+</td>
+</tr>
+</table>
+
+---
+
+### GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chandan944&show_icons=true&theme=github_dark&hide_border=true&bg_color=0A0E27&title_color=00D9FF&icon_color=00D9FF&text_color=E6EDF3&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandan944&layout=compact&theme=github_dark&hide_border=true&bg_color=0A0E27&title_color=00D9FF&text_color=E6EDF3&langs_count=6" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chandan944&theme=github-dark-blue&hide_border=true&background=0A0E27&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
+</p>
+
+---
+
+### Professional Approach
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/000000/engineering.png" width="60"/><br/>
+<b>System Architecture</b><br/>
+<sub>Design scalable solutions from database to deployment</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/000000/fast-forward.png" width="60"/><br/>
+<b>Rapid Execution</b><br/>
+<sub>Ship production code under tight deadlines</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/000000/code.png" width="60"/><br/>
+<b>Code Quality</b><br/>
+<sub>Clean, tested, maintainable solutions</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/000000/learning.png" width="60"/><br/>
+<b>Continuous Learning</b><br/>
+<sub>Rapidly adapt to new technologies</sub>
+</td>
+</tr>
+</table>
+
+---
+
+### Let's Build Something
 ```java
-public class Developer {
-    String name = "Full Stack Java Developer";
-    String[] skills = {"Solo Development", "End-to-End Projects", "Problem Solving"};
-    
-    public void showcase() {
-        System.out.println("👨‍💻 Building real-world apps that teams build—alone");
-        System.out.println("🎯 From database to UI, I handle it all");
-        System.out.println("⚡ Fast learner | Clean code advocate");
-        System.out.println("🔥 Passionate about turning ideas into reality");
+public class Collaboration {
+    public static void main(String[] args) {
+        if (needFullStackDeveloper() || haveChallengeToSolve()) {
+            reachOut("Let's discuss your project");
+        }
     }
 }
 ```
 
-<br clear="right"/>
-
-### 💪 What Sets Me Apart
-
-- ✅ **Solo Full-Stack Developer** – I build complete applications from scratch: frontend, backend, database, APIs
-- ✅ **Organization-Level Projects** – Creating apps that are typically built by teams
-- ✅ **Fast & Reliable** – Meet deadlines while maintaining code quality
-- ✅ **User-Centric Design** – Responsive, clean, and intuitive interfaces
-- ✅ **Strong Problem Solver** – Debug, optimize, and deliver functional solutions
-
----
-
-## 🛠️ Tech Arsenal
-
-<div align="center">
-
-### 💻 Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### 🚀 Frameworks & Libraries
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-### 🗄️ Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🔧 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-</div>
-
----
-
-## 🎯 Featured Projects
-
-<div align="center">
-
-| 🚀 Project | 🛠️ Tech Stack | 📝 Description |
-|------------|---------------|----------------|
-| **[Personal Productivity & Social App](YOUR_PROJECT_LINK)** | React Native + Spring Boot + PostgreSQL | Full-stack social productivity platform - Solo developed from scratch |
-| **[English Learning Chatbot](YOUR_PROJECT_LINK)** | React Native + Gemini API | Interactive AI chatbot with translation, feedback & grammar explanations |
-| **[TODO Full-Stack App](YOUR_PROJECT_LINK)** | React + Spring Boot + MySQL | Complete CRUD application with authentication & responsive UI |
-| **[Weather App](YOUR_PROJECT_LINK)** | React + REST API | Clean, minimalist weather app with live data integration |
-
-</div>
-
-<div align="center">
+<p align="center">
+  <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-0A0E27?style=for-the-badge&logo=gmail&logoColor=00D9FF" /></a>
+  <a href="https://www.linkedin.com/in/chandan-prajapati7/"><img src="https://img.shields.io/badge/LinkedIn-0A0E27?style=for-the-badge&logo=linkedin&logoColor=00D9FF" /></a>
+  <a href="https://chandan-s-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0A0E27?style=for-the-badge&logo=google-chrome&logoColor=00D9FF" /></a>
   
-### 🌟 More Projects Coming Soon!
-  
-</div>
+</p>
 
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-</div>
-
----
-
-## 💼 Work Ethic & Values
-
-<div align="center">
-
-| 💎 Quality | ⚡ Speed | 🎯 Focus | 🔄 Adaptability |
-|:----------:|:-------:|:--------:|:---------------:|
-| Clean, maintainable code | Fast delivery under deadlines | Results-oriented approach | Quick learner of new tech |
-| Thorough testing & debugging | Self-motivated & independent | User-centric design | Multi-role capability |
-
-</div>
-
----
-
-## 🌐 Let's Connect!
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](YOUR_TWITTER_URL)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](YOUR_PORTFOLIO_URL)
-
-</div>
-
----
-
-<div align="center">
-  
-### 💡 "Building tomorrow's solutions, today—one commit at a time"
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E27,100:00D9FF&height=120&section=footer" />
+</p>
